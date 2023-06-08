@@ -19,7 +19,7 @@ html, body{
 }
 
 body{
-    background: url(../imagens/backgroud.jpeg) no-repeat top ;
+    background: url(../imagens/background1.jpg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -49,6 +49,10 @@ iframe#tela{
 }
 
 section#redes-sociais{
+    position: absolute;
+    top: 16%;
+    left: 115%;
+
     text-align: right;
 }
 
